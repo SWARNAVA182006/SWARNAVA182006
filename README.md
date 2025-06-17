@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-  Hey there! I'm <span style="color:#E94E77;">Swarnava Sarkar</span> 🚀
+  Hey Folks! I'm <span style="color:#E94E77;">Swarnava Sarkar</span> 🚀
 </h1>
 
 <p align="center">
