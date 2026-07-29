@@ -1,82 +1,174 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-  Hey Folks! I'm <span style="color:#E94E77;">Swarnava Sarkar</span> 🚀
+  Hi 👋, I'm Swarnava Sarkar
 </h1>
 
+<h3 align="center">
+AI Engineer • Backend Developer • Generative AI Enthusiast
+</h3>
+
 <p align="center">
-  🎓 B.Tech CSE (AI & ML) @ SRM University <br>
-  🤖 AI/ML Explorer | 🧠 Problem Solver | 📡 IoT Innovator <br>
-  💡 Building smart, scalable solutions — one line of code at a time.
+Building intelligent systems with Python, FastAPI, LLMs and scalable backend architectures.
 </p>
 
 ---
 
-### 🔍 About Me
+## 🚀 About Me
 
-- 🧑‍💻 First-year student passionate about **Machine Learning**, **IoT**, and **Data Science**
-- 📌 Currently focused on **Python mastery**, **DSA fundamentals**, and **ML model building**
-- 🚧 Working on real-world projects: Smart Irrigation, Traffic AI, Ambulance Systems
-- 🌱 Always learning: Clean code, Git best practices, open-source contributions
-- 🎯 Dreaming big, building bigger — powered by curiosity & caffeine ☕
+```python
+class SwarnavaSarkar:
+
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.languages = ["Python", "Java", "C++", "SQL"]
+        self.interests = [
+            "Generative AI",
+            "Backend Engineering",
+            "Machine Learning",
+            "High Performance Computing",
+            "Computer Vision"
+        ]
+
+    def currently_building(self):
+        return [
+            "SeisVision AI",
+            "HPCC Copilot",
+            "FORESTNET",
+            "PerformPro"
+        ]
+```
 
 ---
 
-### ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode,arduino&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,scikit-learn&theme=dark" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+`Machine Learning`
+`Deep Learning`
+`Generative AI`
+`LLMs`
+`Prompt Engineering`
+`RAG`
+
+---
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,docker,postgres,mysql,mongodb" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SWARNAVA182006&show_icons=true&theme=radical" alt="Swarnava's GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=SWARNAVA182006&theme=radical" alt="GitHub Streak" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
 ---
 
-### 🚀 Current Learning Plan
+# 🔥 Featured Projects
 
-📘 **Python Deep Dive** — Decorators, OOP, File Handling  
-📈 **ML Models** — Classification, Regression, Real-world datasets  
-💻 **DSA** — Arrays, Strings, Linked Lists, Recursion  
-🌐 **GitHub Pro** — Clean commits, structured READMEs, project-based workflow  
-🛠️ **Projects** — Smart AI Systems + Automation Tools using ESP32
+### 🛰️ SeisVision AI
 
----
+Enterprise AI platform for seismic visualization and interpretation.
 
-### 💼 Projects You Should Check Out
-
-- 🛰️ **Smart Irrigation System** — ML + IoT-based water-saving solution  
-- 🚦 **AI Traffic Signal Controller** — Real-time congestion detection via OpenCV  
-- 🏥 **Ambulance Alert App** — Speed up emergency response using smart routing  
-- 📁 **Python Automation Tools** — File organizers, data scrapers, and trackers
-
-> 📌 _All projects are documented and open-sourced. Your suggestions are welcome!_
+`Python` `FastAPI` `Docker`
 
 ---
 
-### 🌐 Connect With Me
+### 🤖 HPCC Copilot
+
+AI-powered assistant for High Performance Computing environments.
+
+`LLMs` `RAG` `FastAPI`
+
+---
+
+### 🌲 FORESTNET
+
+AI-powered environmental monitoring and wildfire detection.
+
+`Deep Learning`
+`IoT`
+
+---
+
+### 📈 PerformPro
+
+Employee Performance Management Platform.
+
+`FastAPI`
+`PostgreSQL`
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swarnava-sarkar-8a3904336/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:swarnava2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SWARNAVA182006"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SWARNAVA182006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWARNAVA182006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SWARNAVA182006&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### ✨ Quote I Live By
-> _"Stay curious, stay humble, and never stop building."_ 🔥  
-> 💬 _“Dream it. Code it. Ship it. Repeat.”_
+# 🎯 Currently Exploring
+
+- 🤖 Agentic AI
+- 🧠 Large Language Models
+- ⚡ FastAPI Architecture
+- 🐳 Docker
+- ☁️ Scalable AI Systems
+- 📈 Advanced DSA
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Animation">
+# 🌐 Connect
+
+<p align="left">
+
+<a href="https://github.com/SWARNAVA182006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/swarnava-sarkar-8a3904336/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:swarnava2019@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
 </p>
+
+---
+
+> **"Build systems that solve problems, not just code that compiles."**
