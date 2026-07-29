@@ -2,12 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,50:38BDF8,100:7C3AED&text=Swarnava%20Sarkar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<h1>
-👋 Hey Folks! I'm <b>Swarnava Sarkar</b>
+<h1 align="center">
+  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px">
+  Hey Folks! I'm <span style="color:#38BDF8;">Swarnava Sarkar</span> 🚀
 </h1>
 
 <h3>
-💙 AI & Machine Learning Engineer • ⚙️ Backend Developer
+💙 AI & ML Engineer • ⚙️ Backend Developer
 </h3>
 
 <p>
