@@ -181,9 +181,9 @@ Generative AI, Computer Vision and scalable backend systems.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SWARNAVA182006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SWARNAVA182006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWARNAVA182006&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SWARNAVA182006&layout=compact&theme=tokyonight"/>
 
 <br><br>
 
@@ -296,6 +296,12 @@ Generative AI, Computer Vision and scalable backend systems.
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Let's+connect+and+build+something+awesome!;Open+to+collaboration+on+AI+%26+Backend+Projects.;Always+learning.+Always+building.+🚀"/>
+<p>
+Let's connect and build something awesome together 🚀
+</p>
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
 
 </div>
