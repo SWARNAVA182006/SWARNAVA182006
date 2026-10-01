@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="./assets/ascii.svg" width="700" alt="Animated ASCII portrait of Swarnava Sarkar">
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,50:38BDF8,100:7C3AED&text=Swarnava%20Sarkar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 <h1 align="center">
