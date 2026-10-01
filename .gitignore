@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+scripts/debug_crop.jpg
+scripts/portrait.jpeg
+scripts/
