@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ascii.svg" width="700" alt="Animated ASCII portrait of Swarnava Sarkar">
+<img src="./assets/ascii-v2.svg" width="700" alt="Animated ASCII portrait of Swarnava Sarkar">
 
 </div>
 
